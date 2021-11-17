@@ -6,7 +6,7 @@ class ex3_14 {
         Scanner teclat = new Scanner (System.in);
         System.out.println("CÀLCUL D'ÀREES \n ------------- \n 1. Quadrat \n 2. Cercles \n 3. Triangle equilàter");
         n = teclat.nextInt();
-       
+       System.out.println("BON DIA SOC EN STANISLAV DE 1 DAM");
         if (n == 1) {
             System.out.println("Escriu la mida del costat");
             m = teclat.nextInt();
